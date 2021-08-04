@@ -1,0 +1,33 @@
+
+.header{
+
+    background-color: $primario;
+
+    h1{
+        color: $secundario;
+        text-align: center;
+        font-family: $fuente_pagina;
+        font-size: 6rem;
+    }
+    
+    .navegacion_header{
+        display: flex;
+        justify-content: center;
+        
+        .lista_items{
+            display: flex;
+            column-gap: 2rem;
+            margin-bottom: 1rem;
+            a{
+                color: $secundario;
+                font-size: 2rem;
+                font-family: $fuente_principal;
+                font-weight: $bold;
+                text-transform: uppercase;
+                
+            }
+
+        }
+        
+    }
+}

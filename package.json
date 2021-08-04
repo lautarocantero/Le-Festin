@@ -1,0 +1,27 @@
+{
+  "name": "le_festin",
+  "version": "1.0.0",
+  "description": "blog personal ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lautarocantero/Le-Festin.git"
+  },
+  "author": "lautaro nicolas cantero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lautarocantero/Le-Festin/issues"
+  },
+  "homepage": "https://github.com/lautarocantero/Le-Festin#readme",
+  "devDependencies": {
+    "dart-sass": "^1.25.0",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.0.0",
+    "node-sass": "^6.0.1",
+    "sass": "^1.37.5"
+  },
+  "dependencies": {}
+}

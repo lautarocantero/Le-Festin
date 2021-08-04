@@ -1,0 +1,5 @@
+1-iniciar el npm init y llenar los datos
+2- en powershell instalar 'npm i -g gulp-cli' y probar con gulp -v para ver la version. Si no se puede cargar, 
+utilizar 'Get-ExcecutionPolicy' y verificar que este en 'unrestricted' con 'Set-ExecutionPolicy unrestricted' y darle si a todo,
+si aparece un error de denegacion utilizar 'Set-ExecutionPolicy -Scope CurrentUser' y darle denuevo a unrestricted. y si a todo.
+3- instalar en la terminal local con 'npm i gulp'.
